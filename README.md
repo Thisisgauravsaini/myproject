@@ -1,1 +1,4 @@
 # myproject
+add
+myname
+myeducation
